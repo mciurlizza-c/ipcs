@@ -1,0 +1,23 @@
+# Entornos locales
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Archivos sensibles
+*.csv
+*.xlsx
+*.xls
+*.json
+*.toml
+
+# Archivos de datos temporales
+data/
+uploads/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
